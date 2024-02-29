@@ -1,0 +1,21 @@
+name = "rook"
+compatibility_date = "2023-12-01"
+
+node_compat = true
+
+[vars]
+JWT_SECRET = "ON387iubdfiuvb98berw98vbU9B87GUHBUyv78yv8yb8yb7TVC7TYUVY8BV7T6RC5ex4ez4x5rc6vt7b8b8YV6R5XEx"
+# MY_VARIABLE = "production_value"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
