@@ -9,12 +9,11 @@ manage and share data without the need for a traditional server setup.
 
 - **Serverless Architecture**: Rook-clip utilizes Cloudflare Workers to run serverless functions,
      allowing for scalable and cost-effective data transfer operations.
-- **Static Site Hosting**: With Cloudflare Pages, Rook-clip can host static sites for easy access
+- **Static Site Hosting**: Hosted using Cloudflare Pages rook provides easy access
      and sharing of files and text.
 - **R2 Storage**: Rook-clip integrates with R2 for secure and reliable storage of files and text,
      ensuring data integrity and accessibility.
-- **Hono Framework**: Built on the Hono framework, Rook benefits from its lightweight and efficient
-     routing capabilities, making it an ideal choice for serverless applications.
+- **Hono Framework**: Built on the Hono framework.
 
 ## Contributing
 
